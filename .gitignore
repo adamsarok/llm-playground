@@ -218,3 +218,6 @@ __marimo__/
 .env
 
 *.xls
+
+wandb/
+test-finetune-local-*/
